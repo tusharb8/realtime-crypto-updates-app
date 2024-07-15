@@ -56,4 +56,5 @@ To run the frontend application:
 2. Start the frontend development server:
     ```bash
     npm run dev
-    ```
+    ``
+3. Now you can access the application at http://localhost:3000/
